@@ -1,7 +1,7 @@
 # C/C++ Stuff
 
-## Some programs utilize google testing found here: 
-[Google testing](https://github.com/google/googletest).
+## Some programs utilize google test found here: 
+[Google test](https://github.com/google/googletest).
 
 ## Setup in netbeans
 1. Download and extract google testing files

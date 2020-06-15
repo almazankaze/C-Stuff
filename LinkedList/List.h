@@ -330,7 +330,7 @@ class List {
             
             currNode = front;
             
-            for(auto val : v) {
+            for(const auto &val : v) {
                 currNode->data = val;
                 currNode = currNode->next;
             }
